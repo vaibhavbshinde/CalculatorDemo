@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jun 30 18:01:05 IST 2019
+http\://svn.dc5c.test.247media.com\:8081/artifactory/repo/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to repo (http\://svn.dc5c.test.247media.com\:8081/artifactory/repo)\: svn.dc5c.test.247media.com
+@default-repo-http\://svn.dc5c.test.247media.com\:8081/artifactory/repo/.lastUpdated=1561897865744

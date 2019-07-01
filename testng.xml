@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calculator_Suite">
+    <test name = "Test">
+
+        <!--parameter name="calcNum1" value="67"></parameter-->
+        <!--parameter name="calcNum2" value="23"></parameter-->
+        <parameter name="calcNum1" value="${calcNum1}"></parameter>
+        <parameter name="calcNum2" value="${calcNum2}"></parameter>
+
+        <classes>
+            <class name="testcases.TestCase"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Parameterized_Suite -->
