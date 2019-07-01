@@ -10,7 +10,7 @@ Getting Started the framework
 
 In order to get a copy of the project, clone the project from the respective git repository at your desired local path.
 
-git clone https://github.com/vaibhavbshinde/CalculatorDemo
+git clone https://github.com/vaibhavbshinde/CalculatorDemo.git
 
 Prerequisites
 
